@@ -9,5 +9,6 @@ Open it directly in Google Colab using the badge below:
 ### How to use
 
 1. Click the **Open In Colab** button above
-2. Upload your input `.txt` file when prompted
-3. The converted `.csv` file will automatically download
+2. Run (arrow button on the left side next to the code)
+3. Upload your input `.txt` file when prompted ("Choose Files" button below the code)
+4. The converted `.csv` file will automatically download
